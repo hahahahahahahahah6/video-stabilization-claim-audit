@@ -1,0 +1,2 @@
+include tests/test_audit.py
+include tests/__init__.py
